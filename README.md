@@ -38,11 +38,11 @@ This project analyzes and forecasts public transport usage in various regions of
    ```bash
    pip install seaborn scikit-learn joblib streamlit tensorflow
 2. Run the automated script:
-   ``bash
-  python run_project.py
+   ```bash
+   python run_project.py
 3. Launch the Streamlit application:
    ```bash
-  streamlit run dashboard.py
+   streamlit run dashboard.py
 
 ## Results
 The project provides insights into public transport usage and forecasts future demand based on historical data and weather conditions.
