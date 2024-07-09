@@ -1,3 +1,0 @@
-Data successfully generated and saved in 'public_transport_usage.csv'.
-Weather data successfully generated and saved in 'weather_data.csv'.
-Data successfully merged and saved in 'public_transport_usage_cleaned.csv'.
